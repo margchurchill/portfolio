@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="814" height="285" viewBox="0 0 814 285">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #d5d7dc;
+        font-size: 319px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-family: MADESunflower, MADE Sunflower;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #333953;
+      }
+
+      .cls-4 {
+        font-size: 165px;
+      }
+
+      .cls-5 {
+        font-size: 47px;
+      }
+
+      .cls-6 {
+        font-size: 32px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="814" height="285" transform="translate(450 1434)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-2" transform="translate(-450 -1434)">
+    <g id="Group_2" data-name="Group 2" transform="translate(-142 977)">
+      <g id="Group_1" data-name="Group 1">
+        <text id="c" class="cls-3" transform="translate(706 675)"><tspan x="0" y="0">c</tspan></text>
+        <text id="m" class="cls-4" transform="translate(625 640)"><tspan x="0" y="0">m</tspan></text>
+      </g>
+      <text id="MARGIE_CHURCHILL" data-name="MARGIE CHURCHILL" class="cls-5" transform="translate(866 592)"><tspan x="0" y="0">MARGIE CHURCHILL</tspan></text>
+      <text id="UX_UI_DESIGN" data-name="UX/UI DESIGN" class="cls-6" transform="translate(866 635)"><tspan x="0" y="0">UX/UI DESIGN</tspan></text>
+    </g>
+  </g>
+</svg>

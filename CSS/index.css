@@ -1,0 +1,210 @@
+body {
+  margin: auto;
+  font-family: 'Angie Sans Std', sans-serif;
+  max-width: 100%;
+}
+/* Top Bar Menu */
+.topBar {
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+/* About Me Hero */
+.aboutMe {
+  display: grid;
+  grid-template-areas:
+    "aboutMeInfo aboutMeImg";
+  width: 100%;
+  background-color: #fa897b;
+  background-size: cover;
+  padding: 150px;
+}
+.aboutMeInfo {
+  color: white;
+  grid-area: aboutMeInfo;
+}
+.aboutMeInfo button {
+  color: white;
+  width: 150px;
+  height: 50px;
+  border: solid 3px #ffffff;
+  background-color: #fa897b;
+}
+.aboutMeImg {
+  grid-area: aboutMeImg;
+}
+/* Navigation Menu */
+  .navbar-nav {
+    margin-right: auto !important;
+    height: 200px;
+    align-items: center;
+  }
+  .nav-item {
+    margin: 0px 15px;
+    color: #2E354F !important;
+  }
+  .nav-link {
+    color: #2E354F !important;
+    font-family: 'Angie Sans Std', sans-serif !important;
+  }
+  .nav-item:hover {
+    margin: 0px 15px;
+    color: #2E354F !important;
+    border-bottom: 2px solid white;
+    text-decoration: none;
+  }
+/* Portfolio */
+.card {
+    height: 200px;
+}
+.portfolio {
+    display: grid;
+    grid-gap: 16px;
+    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    grid-auto-rows: 300px;
+    max-width: 960px;
+    margin: auto;
+}
+.caseImage {
+    height: 300px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.caseImage img {
+    transition: transform .5s ease;
+}
+.caseImage:hover img {
+    transform: scale(1.1);
+}
+#daily {
+  width: 300px;
+  height: 300px;
+  grid-area: daily;
+  object-fit: contain;
+}
+#travelApp {
+  width: 300px;
+  height: 300px;
+  grid-area: travelApp;
+  object-fit: contain;
+}
+#felix {
+  width: 300px;
+  height: 300px;
+  grid-area: felix;
+  object-fit: contain;
+}
+#mba {
+  width: 300px;
+  height: 300px;
+  grid-area: mba;
+  object-fit: contain;
+}
+#premier {
+  width: 300px;
+  height: 300px;
+  grid-area: premier;
+  object-fit: contain;
+}
+#proven {
+  width: 300px;
+  height: 300px;
+  grid-area: proven;
+  object-fit: contain;
+}
+
+/* About
+.about {
+    display: grid;
+    grid-template-areas:
+        "selfImage aboutMe";
+    margin: 60px 100px;
+    background-color: rgb(157, 168, 206);
+    padding-left: 100;
+    padding-right: 100;
+}
+.selfImage img {
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    grid-area: selfImage;
+}
+.aboutMe {
+    grid-area: aboutMe;
+    margin: 40px 100px;
+}
+*/
+
+/* Contact */
+.contact {
+  margin: auto;
+  background-color: #E5F1F6;
+  padding-top: 164px;
+  padding-bottom: 164px;
+  color: #7dc9e7;
+}
+.contact h1 {
+  display: flex;
+  justify-content: center;
+}
+.contactbuttons .icon {
+  display: flex;
+  justify-content: center;
+}
+.getInTouch p {
+  display: flex;
+  justify-content: center;
+}
+
+/* Footer */
+.footer {
+  height: 170px;
+  width: 100%;
+  background-color: #7dc9e7;
+  margin: 0 auto;
+}
+.contactInfo {
+  color: white !important;
+  list-style-type: none;
+  display: inline;
+  margin: auto;
+}
+.contactInfo li {
+  display: inline;
+  padding-top: 72px;
+  padding-bottom: 72px;
+  padding-left: 64px;
+  padding-right: 64px;
+}
+.line {
+  width: 0;
+  height: 40px;
+  border: solid 2px #ffffff;
+}
+/* Button Styles */
+.btn {
+  background-color: #7dc9e7;
+  border: 0;
+  border-radius: 45px;
+  color: white;
+  font-family: 'Angie Sans Std', sans-serif;
+}
+.btn:hover {
+  background-color: white;
+  color: #7dc9e7;
+  border: 2px;
+  box-shadow: 0px 5px 10px rgba(80, 92, 134, 0.2);
+}
+.btn-social-icon {
+  background-color: #7dc9e7;
+  color: white;
+  border: 0;
+  margin: 15px 5px;
+  cursor: pointer;
+}
+.btn-social-icon:hover .fa {
+  background-color: #7dc9e7;
+  color: white;
+  border: 0;
+  cursor: pointer;
+}

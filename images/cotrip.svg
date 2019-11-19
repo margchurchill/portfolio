@@ -1,0 +1,14 @@
+<svg id="cotrip" xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <rect id="Rectangle_8" data-name="Rectangle 8" width="300" height="300" fill="#fa897b"/>
+  <g id="Component_1" data-name="Component 1" transform="translate(48.789 96.14)">
+    <g id="Group_9" data-name="Group 9" transform="translate(0.211 0.884)">
+      <path id="Path_262" data-name="Path 262" d="M34.208.036C52.612,2.294,68.415,21.242,68.415,47.4S53.1,94.765,34.208,94.765,0,73.559,0,47.4,15.8-2.221,34.208.036Z" transform="translate(3.289 9.8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
+      <path id="Path_260" data-name="Path 260" d="M205.783,987.692c29.905-47.183,85.095-51.208,117.291-49a164.385,164.385,0,0,1,24.483,3.357" transform="translate(-149.494 -890.599)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
+      <path id="Path_261" data-name="Path 261" d="M14.079.74c33.7,12.244,12.5,14.726,12.5,32.892S20.981,63.9,14.079,63.9,1.58,51.8,1.58,33.632-19.626-11.5,14.079.74Z" transform="translate(58.284 9.096)" fill="#fa897b"/>
+      <circle id="Ellipse_228" data-name="Ellipse 228" cx="11.183" cy="11.183" r="11.183" transform="translate(49.338 62.463)" fill="#fa897b" stroke="#fff" stroke-linecap="round" stroke-width="7"/>
+      <line id="Line_6" data-name="Line 6" x1="11.841" y1="14.472" transform="translate(186.168 36.149)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+      <path id="Path_263" data-name="Path 263" d="M14.472,0,0,9.21" transform="translate(183.537 53.253)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+      <text id="Trip" transform="matrix(0.94, -0.342, 0.342, 0.94, 73.517, 60.047)" fill="#fff" font-size="39" font-family="AvenirNext-BoldItalic, Avenir Next" font-weight="700" font-style="italic" letter-spacing="0.04em"><tspan x="0" y="0">trip</tspan></text>
+    </g>
+  </g>
+</svg>
